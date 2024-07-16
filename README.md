@@ -42,4 +42,7 @@
 ![GIF](https://github.com/Sihyeon0123/Genetic-Algorithm-Tetris/assets/129951793/f054983e-b9c0-4080-91eb-278c4fcae982)
 
 ## 부록
-
+- [기능명세서](./docs/캡스톤디자인I_기능요구사항명세서.xlsx)
+- [계획서](./docs/캡스톤디자인I_계획서.hwp)
+- [결과보고서](./docs/캡스톤디자인I_결과보고서.hwp)
+- [최종발표자료](./docs/캡스톤디자인_발표자료.pptx)
